@@ -67,7 +67,7 @@ ___
 # ng-book 2
 
 <a href="https://ng-book.com/2">
-<img align="right" src="app/images/readme/ng-book-2-as-book-cover-pigment.png" alt="ng-book 2" width="148" height="250" />
+<img align="right" src="images/ng-book-2-as-book-cover-pigment.png" alt="ng-book 2" width="148" height="250" />
 </a>
 
 This repo was written and is maintained by the [ng-book 2](https://ng-book.com/2) team. In the book we talk about each line of code in this app and explain why it's there and how it works.
