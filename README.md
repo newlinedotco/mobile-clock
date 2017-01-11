@@ -1,5 +1,3 @@
-## Mobile app
-
 ![](images/masthead.png)
 
 This is a native mobile application written using [NativeScript](https://www.nativescript.org/), [Angular 2](https://angular.io/), and [TypeScript](https://www.typescriptlang.org/) as part of a demo series provided by the guys at [ng-book](http://ng-book.com/2).
@@ -50,4 +48,33 @@ With our application running, we can now start editing our application. Notice t
 
 ![](images/app_clock.png)
 
+
 ## Contributing
+
+There are lots of other little things that need cleaned up such as:
+
+- Add tests
+- Make it look pretty!
+
+If you'd like to contribute, feel free to submit a pull request and we'll likely merge it in.
+
+## Getting Help
+
+If you're having trouble getting this project running, feel free to [open an issue](https://github.com/fullstackio/mobile-clock/issues), join us on [Gitter](https://gitter.im/ng-book/ng-book?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge), or [email us](mailto:us@fullstack.io)!
+
+___
+
+# ng-book 2
+
+<a href="https://ng-book.com/2">
+<img align="right" src="app/images/readme/ng-book-2-as-book-cover-pigment.png" alt="ng-book 2" width="148" height="250" />
+</a>
+
+This repo was written and is maintained by the [ng-book 2](https://ng-book.com/2) team. In the book we talk about each line of code in this app and explain why it's there and how it works.
+
+This app is only one of several apps we have in the book. If you're looking to learn Angular 2, there's no faster way than by spending a few hours with ng-book 2.
+
+<div style="clear:both"></div>
+
+## License
+ [MIT](/LICENSE.md)

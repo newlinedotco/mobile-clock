@@ -9,7 +9,6 @@ import { TimerObservable } from "rxjs/observable/TimerObservable";
 export class AppComponent implements OnInit, OnDestroy {
     private n = 60;
     private now: Date = new Date();
-    private timer;
     private subscription: Subscription;
     private bgColor: String = "#bbaaab";
 
